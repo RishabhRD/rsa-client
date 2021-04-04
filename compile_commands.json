@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/rishabh/Documents/iiit-dwd/ACN/rsa-client/bin",
+  "command": "/usr/bin/c++  -I/home/rishabh/Documents/iiit-dwd/ACN/rsa-client/include -std=gnu++17 -o CMakeFiles/tests.dir/src/Encryptor.cc.o -c /home/rishabh/Documents/iiit-dwd/ACN/rsa-client/src/Encryptor.cc",
+  "file": "/home/rishabh/Documents/iiit-dwd/ACN/rsa-client/src/Encryptor.cc"
+},
+{
+  "directory": "/home/rishabh/Documents/iiit-dwd/ACN/rsa-client/bin",
+  "command": "/usr/bin/c++  -I/home/rishabh/Documents/iiit-dwd/ACN/rsa-client/include -std=gnu++17 -o CMakeFiles/rsa-client.dir/src/Encryptor.cc.o -c /home/rishabh/Documents/iiit-dwd/ACN/rsa-client/src/Encryptor.cc",
+  "file": "/home/rishabh/Documents/iiit-dwd/ACN/rsa-client/src/Encryptor.cc"
+}
+]
